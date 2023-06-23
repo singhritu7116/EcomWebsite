@@ -11,7 +11,7 @@ export const PRODUCTS = [
   {
     id: 1,
     productName: "Zara Cargo Fit Pant for Men",
-    price: 1999.0,
+    price: 99.0,
     productImage: product1,
   },
   {
@@ -29,13 +29,13 @@ export const PRODUCTS = [
   {
     id: 4,
     productName: "Prestige Mixer,Grinder Set",
-    price: 1200.0,
+    price: 120.0,
     productImage: product4,
   },
   {
     id: 5,
     productName: "Sony Headphones",
-    price: 2599.0,
+    price: 259.0,
     productImage: product5,
   },
   {
@@ -53,7 +53,7 @@ export const PRODUCTS = [
   {
     id: 8,
     productName: "Gucci Dionysus Bamboo LeatherBag",
-    price: 40.0,
+    price: 440.0,
     productImage: product8,
   },
 ];
